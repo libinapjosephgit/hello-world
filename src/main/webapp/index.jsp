@@ -4,7 +4,7 @@
 </head>
 <body>
 	<h1>Maven Tomcat Project</h1>
-	<img src = "flower.jpg" alt="Smiley face"/>
+	<img src = "C:\Users\Libina\Desktop\flower.jpg" alt="Smiley face"/>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
